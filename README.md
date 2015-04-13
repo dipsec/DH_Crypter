@@ -1,4 +1,4 @@
-# DH_Crypter
+# DH Crypter
 
 A simple crypter I did in Delphi with the following functions:<br>
 <br>
