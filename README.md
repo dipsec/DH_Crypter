@@ -35,4 +35,8 @@ A simple crypter I did in Delphi with the following functions:<br>
 [++] Regedit<br>
 [++] Updates<br>
 <br>
+[!] Credits : 
+<br>
+[++] steve10120 [ RunPE ]<br>
+<br>
 Video : https://www.youtube.com/watch?v=EYhaZTVhSCg
