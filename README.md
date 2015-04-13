@@ -1,39 +1,38 @@
 # DH_Crypter
 
-
-A simple crypter I did in Delphi with the following functions:
-
-[+] Key generator for encryption
-[+] Delay
-[+] Startup File
-[+] Hide Images
-[+] Melt File
-[+] False messages
-[+] Run command
-[+] Kill processes
-[+] Open URL
-[+] Download and execute files
-[+] File Pumper, Extension Spoofer & Icon Changer
-
-[+] Antis:
-
-[++] Virtual PC
-[++] Virtual Box
-[++] Debug
-[++] Wireshark
-[++] OllyDg
-[++] Anubis
-[++] Kaspersky
-[++] VMware
-
-[+] Disables:
-
-[++] UAC
-[++] Firewall
-[++] CMD
-[++] Run
-[++] Taskmgr
-[++] Regedit
-[++] Updates
-
+A simple crypter I did in Delphi with the following functions:<br>
+<br>
+[+] Key generator for encryption<br>
+[+] Delay<br>
+[+] Startup File<br>
+[+] Hide Images<br>
+[+] Melt File<br>
+[+] False messages<br>
+[+] Run command<br>
+[+] Kill processes<br>
+[+] Open URL<br>
+[+] Download and execute files<br>
+[+] File Pumper, Extension Spoofer & Icon Changer<br>
+<br>
+[+] Antis:<br>
+<br>
+[++] Virtual PC<br>
+[++] Virtual Box<br>
+[++] Debug<br>
+[++] Wireshark<br>
+[++] OllyDg<br>
+[++] Anubis<br>
+[++] Kaspersky<br>
+[++] VMware<br>
+<br>
+[+] Disables:<br>
+<br>
+[++] UAC<br>
+[++] Firewall<br>
+[++] CMD<br>
+[++] Run<br>
+[++] Taskmgr<br>
+[++] Regedit<br>
+[++] Updates<br>
+<br>
 Video : 
